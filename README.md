@@ -1,163 +1,127 @@
-# 👋 Hi, I'm Abinesh S.
+# Abinesh S. 👋
+### Software Engineer | Java & Spring Boot | Full-Stack Development | AI Applications
 
-### Software Engineer | Java & Spring Boot | Full-Stack Development | AI-Powered Applications
+**Building practical software. Solving problems. Learning continuously.**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React;Exploring+AI%2C+RAG+%26+Intelligent+Systems;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG" />
-</p>
+I'm a 2026 Computer Science and Engineering graduate with a **CGPA of 8.9/10**, passionate about software engineering, backend development, and AI-powered applications.
 
-<p align="center">
-  <a href="https://github.com/Abinesh-S-7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abinesh-s-cse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://study-notes-coach.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live_Projects-238636?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Projects"/>
-  </a>
-</p>
+[GitHub Profile](https://github.com/Abinesh-S-7) · [LinkedIn](https://www.linkedin.com/in/abinesh-s-cse/) · [Study Notes Coach](https://study-notes-coach.streamlit.app/) · [BookMyTicket](https://bookmyticket-seven.vercel.app/)
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a **2026 Computer Science and Engineering graduate** with a CGPA of **8.9/10**, passionate about building practical software solutions and solving challenging problems.
+- 🎓 B.E. Computer Science and Engineering — 2026 graduate
+- ☕ Building backend applications with Java, Spring Boot, and REST APIs
+- 🌐 Developing full-stack applications with React and MySQL
+- 🤖 Exploring Retrieval-Augmented Generation (RAG) and AI-powered systems
+- 🧩 Solved **3,000+ problems on SkillRack** and **250+ on LeetCode**
+- 🏅 NPTEL Star Award recipient
+- 🔬 Published research on ATM Security Enhancement on IEEE Xplore
 
-- 💻 Strong foundation in Data Structures & Algorithms, OOP, DBMS, and problem-solving.
-- ☕ Developing backend applications using Java, Spring Boot, Hibernate, and REST APIs.
-- 🌐 Building full-stack web applications with React, JavaScript, and MySQL.
-- 🤖 Exploring AI-powered applications using RAG, LangChain, and vector databases.
-- 🛡️ Interested in application security, authentication, and scalable backend systems.
-- 🎯 Currently focused on growing as a Software Engineer and building production-ready projects.
+## Technical Skills
 
-> *Build. Learn. Improve. Repeat.*
+| Category | Technologies |
+|---|---|
+| Languages | C, C++, Python, Java |
+| Frontend | HTML, CSS, JavaScript, React, Vite |
+| Backend | Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT |
+| Databases | MySQL, SQLite |
+| AI / ML | LangChain, RAG, FAISS, Hugging Face, OpenCV, Keras |
+| Tools | Git, GitHub, Docker, Postman, VS Code |
+| Deployment | Vercel, Render, Streamlit |
 
-## 🧰 Tech Stack
+## Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,vite,spring,mysql,sqlite,git,github,docker,postman,vscode&perline=9" alt="Technology stack"/>
-</p>
+### 01 · BookMyTicket — Travel & Ticketing Platform
 
-**Backend & APIs:** Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT
+A full-stack reservation application bringing multiple travel booking services into one platform.
 
-**AI & Machine Learning:** Python, LangChain, RAG, FAISS, Hugging Face, OpenCV, Keras
+**Highlights**
+- Flight, train, bus, and hotel reservation workflows.
+- Secure REST APIs using Spring Boot and Spring Security.
+- JWT authentication and role-based access control.
+- MySQL database integration using Hibernate.
+- Docker-based backend containerization and cloud deployment.
 
-**Databases:** MySQL, SQLite
+**Built with:** Java · Spring Boot · Spring Security · JWT · React · Vite · MySQL · Hibernate · Docker
 
-**Tools & Deployment:** Git, GitHub, Docker, Postman, VS Code, Streamlit, Vercel, Render
+**Explore:** [Live Application](https://bookmyticket-seven.vercel.app/) · [Backend API](https://book-my-ticket-qwng.onrender.com/)
 
-## 🌟 Featured Projects
+<details>
+<summary><strong>What I worked on</strong></summary>
 
-### 🎫 BookMyTicket — Full-Stack Travel & Ticketing Platform
+Designed the frontend and backend as separate applications, implemented authentication and authorization, connected the backend to MySQL, and deployed the application using Vercel and Render.
 
-<a href="https://bookmyticket-seven.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore_Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/>
-</a>
-<a href="https://book-my-ticket-qwng.onrender.com/">
-  <img src="https://img.shields.io/badge/Backend_API-8957E5?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend API"/>
-</a>
+</details>
 
-A full-stack travel reservation platform designed to bring multiple booking services into one application.
+### 02 · Study Notes Coach — AI-Powered Study Assistant
 
-- ✈️ Supports flights, trains, buses, and hotel reservations.
-- 🔐 Implements JWT authentication and role-based access control.
-- ⚙️ Built secure REST APIs with Spring Boot and Spring Security.
-- 🗄️ Uses MySQL and Hibernate for data persistence.
-- 🐳 Containerized the backend using Docker and deployed the frontend and backend separately.
+An AI-powered study application that helps learners understand PDF documents through contextual retrieval and question answering.
 
-**Tech:** Java · Spring Boot · Spring Security · JWT · React · Vite · Hibernate · MySQL · Docker
+**Highlights**
+- Multi-PDF document support.
+- Retrieval-Augmented Generation using LangChain and FAISS.
+- Contextual answers with page-level citations.
+- Conversational retrieval and MCQ generation.
+- Answer-quality evaluation and SQLite persistence.
+
+**Built with:** Python · LangChain · FAISS · Hugging Face · RAG · SQLite · Streamlit
+
+**Explore:** [Launch Study Notes Coach](https://study-notes-coach.streamlit.app/)
+
+<details>
+<summary><strong>What I worked on</strong></summary>
+
+Built a document-grounded question-answering workflow that retrieves relevant document chunks before generating responses, helping users connect answers to their study materials.
+
+</details>
+
+### 03 · ATM Security Enhancement System
+
+A computer-vision-based ATM security application designed to strengthen identity verification and detect suspicious activity.
+
+**Highlights**
+- Facial verification using OpenCV and LBPH.
+- Mask and helmet detection using a trained deep-learning model.
+- Intruder image capture and Cloudinary storage.
+- Twilio SMS alerts and OTP verification.
+- Android push notifications through Firebase Cloud Messaging.
+
+**Built with:** Python · OpenCV · Keras · NumPy · Tkinter · Flask · Twilio · Cloudinary · Firebase
+
+**Research:** Published a paper on ATM Security Enhancement on IEEE Xplore.
 
 ---
 
-### 📚 Study Notes Coach — AI-Powered Study Assistant
+## Achievements
 
-<a href="https://study-notes-coach.streamlit.app/">
-  <img src="https://img.shields.io/badge/Try_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Try live app"/>
-</a>
+| Achievement | Milestone |
+|---|---|
+| Academic performance | CGPA 8.9/10 |
+| Problem-solving | 3,000+ SkillRack problems |
+| Coding practice | 250+ LeetCode problems |
+| Recognition | NPTEL Star Award |
+| Research | ATM security paper published on IEEE Xplore |
+| Certification | Certificate of Appreciation for Top Performer on SkillRack |
 
-An AI-powered learning assistant that helps users understand documents and study more effectively using Retrieval-Augmented Generation (RAG).
+## Currently Focusing On
 
-- 📄 Supports multiple PDFs and retrieves relevant document passages.
-- 💬 Provides contextual answers with page-level citations.
-- 🧠 Implements conversational retrieval using LangChain and FAISS.
-- 📝 Generates multiple-choice questions and evaluates answer quality.
-- 💾 Uses SQLite for application data persistence.
+- Strengthening Java and Spring Boot expertise.
+- Building secure, maintainable REST APIs.
+- Improving full-stack development and deployment skills.
+- Practicing DSA and preparing for Software Engineer interviews.
+- Exploring practical AI and RAG application development.
 
-**Tech:** Python · LangChain · FAISS · Hugging Face · RAG · SQLite · Streamlit
+## Let's Connect
 
----
+I'm interested in Software Engineer opportunities, collaborating on meaningful projects, and connecting with fellow developers.
 
-### 🔐 ATM Security Enhancement System
-
-An intelligent ATM security application combining facial verification and computer vision to improve transaction security.
-
-- 👤 Implements face recognition using OpenCV and LBPH.
-- 🛡️ Integrates mask and helmet detection using a trained deep-learning model.
-- 📸 Captures suspicious activity and stores images using Cloudinary.
-- 📲 Integrates Twilio SMS alerts and OTP-based verification.
-- 📱 Includes an Android notification workflow using Firebase Cloud Messaging.
-
-**Tech:** Python · OpenCV · Keras · NumPy · Tkinter · Flask · Twilio · Cloudinary · Firebase
-
-📑 **Research:** Published a paper on ATM Security Enhancement on IEEE Xplore.
+- **GitHub:** [Abinesh-S-7](https://github.com/Abinesh-S-7)
+- **LinkedIn:** [abinesh-s-cse](https://www.linkedin.com/in/abinesh-s-cse/)
 
 ---
 
-## 🏆 Achievements & Highlights
+*Build with purpose. Learn by doing. Improve every day.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.9%2F10-58A6FF?style=for-the-badge" alt="CGPA 8.9"/>
-  <img src="https://img.shields.io/badge/SkillRack-3000%2B_Problems-238636?style=for-the-badge" alt="3000+ SkillRack problems"/>
-  <img src="https://img.shields.io/badge/LeetCode-750%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="750+ LeetCode problems"/>
-</p>
-
-- 🏅 Recipient of the **NPTEL Star Award**.
-- 📜 Certificate of Appreciation for Top Performer on SkillRack.
-- 📚 Solved 3,000+ problems on SkillRack and 250+ problems on LeetCode.
-- 🔬 Published research on ATM Security Enhancement on IEEE Xplore.
-- 💻 Participated in DSA and hackathon events.
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abinesh-S-7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh-S-7&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abinesh-S-7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinesh-S-7&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph"/>
-</p>
-
-## 🌱 Currently Growing
-
-- Advanced Java and Spring Boot development.
-- REST API design, Spring Security, and JWT authentication.
-- Full-stack application development and deployment.
-- Data Structures & Algorithms and interview preparation.
-- AI-powered applications and Retrieval-Augmented Generation.
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, learning new technologies, and exploring Software Engineer opportunities.
-
-<p align="center">
-  <a href="https://github.com/Abinesh-S-7">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abinesh-s-cse/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>"Great software is built one problem, one solution, and one improvement at a time."</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
-</p>
+⭐ If you find my projects interesting, explore my repositories and feel free to connect!
