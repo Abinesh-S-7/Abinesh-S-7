@@ -1,168 +1,158 @@
-# `> Abinesh S.` 👨‍💻
+<!--
+  ABINESH S. | GITHUB PROFILE README
+  Theme: Futuristic Terminal / Developer Console
+-->
 
-### Software Engineer · Java & Spring Boot · Full-Stack · AI
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/Abinesh-S-7">GitHub</a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/abinesh-s-cse/">LinkedIn</a> &nbsp; • &nbsp;
-  <a href="https://bookmyticket-seven.vercel.app/">Live Project</a>
-</p>
+# `abinesh-s-7` <sup>_// dev profile_</sup>
 
----
+**SOFTWARE ENGINEER · FULL-STACK DEVELOPER · AI EXPLORER**
 
-> **Engineering mindset:** Turn complex problems into practical, reliable software.
+`JAVA` / `SPRING BOOT` / `REACT` / `PYTHON` / `RAG`
 
-I'm a **2026 Computer Science and Engineering graduate** with a **CGPA of 8.9/10**, focused on backend engineering, full-stack application development, and AI-powered solutions.
+<br/>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h2>8.9/10</h2>
-      <sub>ACADEMIC CGPA</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>3,000+</h2>
-      <sub>SKILLRACK PROBLEMS</sub>
-    </td>
-    <td align="center" width="33%">
-      <h2>3</h2>
-      <sub>FEATURED PROJECTS</sub>
-    </td>
-  </tr>
-</table>
+[ ` GITHUB ` ](https://github.com/Abinesh-S-7) &nbsp; ◈ &nbsp; [ ` LINKEDIN ` ](https://www.linkedin.com/in/abinesh-s-cse/)
 
-## `01` / TECH ARSENAL
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-Programming-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Programming-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-**Database, AI & Infrastructure**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-6B46C1?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## `02` / SELECTED WORK
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎫 BookMyTicket</h3>
-      <p><strong>Full-Stack Travel & Ticketing Platform</strong></p>
-      <p>A multi-service booking application for flights, trains, buses, and hotels.</p>
-      <ul>
-        <li>JWT authentication and role-based access control</li>
-        <li>Spring Boot REST APIs</li>
-        <li>MySQL persistence with Hibernate</li>
-        <li>Docker and cloud deployment</li>
-      </ul>
-      <p><strong>Stack</strong><br>Java · Spring Boot · React · MySQL · Docker</p>
-      <a href="https://bookmyticket-seven.vercel.app/"><strong>↗ LIVE DEMO</strong></a>
-      &nbsp; · &nbsp;
-      <a href="https://book-my-ticket-qwng.onrender.com/"><strong>API</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Study Notes Coach</h3>
-      <p><strong>AI-Powered Learning Assistant</strong></p>
-      <p>A document-grounded AI assistant that helps learners understand their study materials.</p>
-      <ul>
-        <li>Multi-PDF retrieval and question answering</li>
-        <li>RAG pipeline with LangChain and FAISS</li>
-        <li>Answers with page-level citations</li>
-        <li>MCQ generation and answer evaluation</li>
-      </ul>
-      <p><strong>Stack</strong><br>Python · LangChain · FAISS · Hugging Face</p>
-      <a href="https://study-notes-coach.streamlit.app/"><strong>↗ LIVE DEMO</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🔐 ATM Security Enhancement System</h3>
-      <p><strong>Computer Vision · Identity Verification · Security Automation</strong></p>
-      <p>A security-focused ATM application combining facial verification, mask and helmet detection, suspicious-image capture, and notification workflows.</p>
-      <ul>
-        <li>OpenCV facial verification using LBPH</li>
-        <li>Deep-learning-based mask and helmet detection</li>
-        <li>Cloudinary image storage and Twilio SMS alerts</li>
-        <li>Firebase Cloud Messaging integration for Android notifications</li>
-      </ul>
-      <p><strong>Stack</strong><br>Python · OpenCV · Keras · Flask · Twilio · Cloudinary · Firebase</p>
-      <p>📄 Research paper published on IEEE Xplore.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## `03` / ACHIEVEMENTS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 Recognition</h3>
-      <ul>
-        <li>NPTEL Star Award recipient</li>
-        <li>SkillRack Certificate of Appreciation for Top Performer</li>
-        <li>ATM security research publication on IEEE Xplore</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Problem Solving</h3>
-      <ul>
-        <li><strong>3,000+</strong> problems solved on SkillRack</li>
-        <li><strong>250+</strong> problems solved on LeetCode</li>
-        <li><strong>100+</strong> problems solved on CodeChef</li>
-        <li><strong>75+</strong> problems solved on GeeksforGeeks</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## `04` / CURRENT FOCUS
+### `root@abinesh:~$ whoami`
 
 ```text
-01  Java & Spring Boot       → Backend engineering
-02  REST APIs & Security     → JWT, authorization, clean design
-03  React & MySQL            → Full-stack application development
-04  AI & RAG                 → Retrieval and document intelligence
-05  DSA & Interview Prep     → Problem-solving and fundamentals
+IDENTITY    Abinesh S.
+EDUCATION   B.E. Computer Science & Engineering · 2026
+ACADEMICS   8.9 / 10 CGPA
+FOCUS       Backend Engineering · Full-Stack · Applied AI
+MINDSET     Learn fast. Build thoughtfully. Ship useful software.
+```
+
+I'm a Computer Science graduate who enjoys turning ideas into working applications — from secure backend systems to AI-powered learning tools.
+
+My primary focus is **Java and Spring Boot**, with hands-on experience building React applications, integrating databases, implementing authentication, and experimenting with retrieval-augmented generation.
+
+Currently looking to contribute, learn from experienced engineers, and build software that solves real problems.
+
+---
+
+### `root@abinesh:~$ ls ./tech-stack`
+
+**01 — LANGUAGES**
+
+`C` `C++` `Python` `Java` `JavaScript`
+
+**02 — WEB & BACKEND**
+
+`React` `HTML` `CSS` `Spring Boot` `Spring Security` `REST APIs` `Hibernate` `JPA` `JWT`
+
+**03 — DATA & AI**
+
+`MySQL` `SQLite` `LangChain` `FAISS` `RAG` `Hugging Face` `OpenCV` `Keras`
+
+**04 — TOOLS & DEPLOYMENT**
+
+`Git` `GitHub` `Docker` `Postman` `VS Code` `Vercel` `Render` `Streamlit`
+
+---
+
+### `root@abinesh:~$ ./projects --featured`
+
+#### `01. BOOKMYTICKET`
+
+**// Full-stack travel & ticketing platform**
+
+A multi-service booking application designed to bring travel reservations into one place.
+
+- Flight, train, bus, and hotel booking workflows.
+- REST API development with Spring Boot.
+- JWT authentication and role-based authorization.
+- MySQL persistence with Hibernate.
+- Docker-based backend containerization and separate frontend/backend deployment.
+
+`JAVA` `SPRING BOOT` `SPRING SECURITY` `JWT` `REACT` `MYSQL` `DOCKER`
+
+**[ OPEN LIVE APPLICATION ↗ ](https://bookmyticket-seven.vercel.app/)**
+
+**[ BACKEND API ↗ ](https://book-my-ticket-qwng.onrender.com/)**
+
+---
+
+#### `02. STUDY NOTES COACH`
+
+**// AI-powered document intelligence**
+
+An intelligent study assistant that helps users retrieve information from their learning materials and generate contextual answers.
+
+- Multi-PDF document support.
+- Retrieval-Augmented Generation with LangChain and FAISS.
+- Document-grounded answers with page-level citations.
+- Conversational retrieval and MCQ generation.
+- Answer-quality evaluation and SQLite persistence.
+
+`PYTHON` `LANGCHAIN` `FAISS` `RAG` `HUGGING FACE` `SQLITE`
+
+**[ LAUNCH LIVE APPLICATION ↗ ](https://study-notes-coach.streamlit.app/)**
+
+---
+
+#### `03. ATM SECURITY ENHANCEMENT`
+
+**// Computer vision meets application security**
+
+A security-focused ATM application that combines facial verification, suspicious-activity detection, and notification workflows.
+
+- Facial verification using OpenCV and LBPH.
+- Mask and helmet detection using a trained deep-learning model.
+- Intruder-image capture and Cloudinary storage.
+- Twilio SMS alerts and OTP verification.
+- Android push notifications through Firebase Cloud Messaging.
+
+`PYTHON` `OPENCV` `KERAS` `FLASK` `TWILIO` `CLOUDINARY` `FIREBASE`
+
+**RESEARCH** — Published a paper on ATM Security Enhancement on IEEE Xplore.
+
+---
+
+### `root@abinesh:~$ cat achievements.log`
+
+```text
+[AWARD]      NPTEL Star Award
+[ACADEMIC]   8.9 / 10 CGPA
+[DSA]        3,000+ SkillRack problems solved
+[DSA]        250+ LeetCode problems solved
+[DSA]        100+ CodeChef problems solved
+[DSA]        75+ GeeksforGeeks problems solved
+[RESEARCH]   ATM security paper published on IEEE Xplore
 ```
 
 ---
 
-## `05` / LET'S CONNECT
+### `root@abinesh:~$ tail -n 5 learning.log`
 
-Interested in software engineering, backend development, AI applications, and building useful products.
+```text
+> Strengthening Java & Spring Boot
+> Designing secure and maintainable REST APIs
+> Building and deploying full-stack applications
+> Exploring RAG and AI-powered software
+> Preparing for Software Engineer opportunities
+```
 
-<p align="center">
-  <a href="https://github.com/Abinesh-S-7">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abinesh-s-cse/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-</p>
+---
 
-<p align="center">
-  <sub><code>LEARN → BUILD → SHIP → ITERATE</code></sub>
-</p>
+<div align="center">
+
+### `root@abinesh:~$ connect --with-me`
+
+**OPEN TO LEARNING · COLLABORATION · SOFTWARE ENGINEERING OPPORTUNITIES**
+
+[ GitHub ↗ ](https://github.com/Abinesh-S-7) &nbsp; ◈ &nbsp; [ LinkedIn ↗ ](https://www.linkedin.com/in/abinesh-s-cse/)
+
+<br/>
+
+`BUILD` → `DEBUG` → `LEARN` → `REPEAT`
+
+<sub>End of file · Thanks for exploring my profile.</sub>
+
+</div>
