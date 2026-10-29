@@ -109,7 +109,7 @@ An intelligent ATM security application combining facial verification and comput
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-8.9%2F10-58A6FF?style=for-the-badge" alt="CGPA 8.9"/>
   <img src="https://img.shields.io/badge/SkillRack-3000%2B_Problems-238636?style=for-the-badge" alt="3000+ SkillRack problems"/>
-  <img src="https://img.shields.io/badge/LeetCode-250%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="250+ LeetCode problems"/>
+  <img src="https://img.shields.io/badge/LeetCode-750%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="750+ LeetCode problems"/>
 </p>
 
 - 🏅 Recipient of the **NPTEL Star Award**.
